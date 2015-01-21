@@ -14,11 +14,10 @@ Note that the “black cell” and “gray cell” in different stages are diffe
 
 #### Overall schematic
 
-[vec_gen.pl](https://github.com/CWang24/Adders/blob/master/vec_gen.pl)
-[lab3.vec](https://github.com/CWang24/Adders/blob/master/lab3.vec)
-[lab3.csv](https://github.com/CWang24/Adders/blob/master/lab3.csv#L2)
-[]
+
 ## Functional test waveforms and results
+#### Input Setting
+I wrote [vec_gen.pl](https://github.com/CWang24/Adders/blob/master/vec_gen.pl) to generate the input vector file [lab3.vec](https://github.com/CWang24/Adders/blob/master/lab3.vec) for simulation and display the information of add operations on screen.
 
 #### Theoretical result
 And it shows the 10 combinations and the theoretical sums on the screen.
@@ -69,7 +68,7 @@ And it shows the 10 combinations and the theoretical sums on the screen.
 #### Waveforms
 
 #### Results
-I wrote [vec_gen.pl](https://github.com/CWang24/Adders/blob/master/vec_gen.pl) to translate the waveforms into hex values.<br />
+I wrote [vec_gen.pl](https://github.com/CWang24/Adders/blob/master/vec_gen.pl) to translate the waveform data [lab3.csv](https://github.com/CWang24/Adders/blob/master/lab3.csv#L2) into hex values.<br />
 
 Run this perl script with the lab3.cvs file, the screen will show:
 ```
