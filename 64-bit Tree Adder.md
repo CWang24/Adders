@@ -16,11 +16,10 @@ Note that the “black cell” and “gray cell” in different stages are diffe
 
 
 ## Functional test waveforms and results
-#### Input Setting
+#### Input Setting and Theoretical Result Calculation
 I wrote [vec_gen.pl](https://github.com/CWang24/Adders/blob/master/vec_gen.pl) to generate the input vector file [lab3.vec](https://github.com/CWang24/Adders/blob/master/lab3.vec) for simulation and display the information of add operations on screen.
 
-#### Theoretical result
-And it shows the 10 combinations and the theoretical sums on the screen.
+It shows the 10 combinations and the theoretical sums on the screen.
 ```
   8000000000000000 + 0
  +4000000000000000
